@@ -6,5 +6,5 @@ Add into your config file : <br>
 ```
 [snrep]
 SigLevel = Optional TrustAll
-Server = https://raw.githubusercontent.com/SnowsSky/SNrep/main/main/binaries/$arch```
+Server = https://raw.githubusercontent.com/SnowsSky/SNrep/main/main/binaries/$arch
 
