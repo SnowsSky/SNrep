@@ -6,6 +6,6 @@ Add into your config file : <br>
 ```
 [snrepo]
 SigLevel = Optional TrustAll
-Server = https://raw.githubusercontent.com/SnowsSky/SNrep/main/main/binaries/$arch```
+Server = https://raw.githubusercontent.com/SnowsSky/SNrep/main/main/binaries/$arch
+```
 And then run `pacman -Syu` to update the pacman local databases.
-
