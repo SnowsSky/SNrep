@@ -4,7 +4,7 @@
 ## 1.2 - Add the repository :
 Add into your config file : <br>
 ```
-[snrep]
+[snrepo]
 SigLevel = Optional TrustAll
 Server = https://raw.githubusercontent.com/SnowsSky/SNrep/main/main/binaries/$arch```
 And then run `pacman -Syu` to update the pacman local databases.
